@@ -1,0 +1,287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cart",
+				"cart"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"total",
+				"totalPrice"
+			],
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"excel",
+				"excelObj"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/greggel/sites/compliance"
+	],
+	"file_history":
+	[
+		"/Users/greggel/sites/trade/.env",
+		"/Users/greggel/sites/trade/resources/assets/sass/app.scss",
+		"/Users/greggel/sites/trade/resources/views/auth/register.blade.php",
+		"/Users/greggel/sites/trade/resources/views/welcome.blade.php",
+		"/Users/greggel/sites/trade/public/css/app.css",
+		"/Users/greggel/sites/trade/resources/views/auth/login.blade.php",
+		"/Users/greggel/sites/trade/resources/views/layouts/app.blade.php",
+		"/Users/greggel/sites/trade/config/app.php",
+		"/Users/greggel/sites/trade/webpack.mix.js",
+		"/Users/greggel/sites/trade/public/mix-manifest.json",
+		"/Volumes/sisky/torrentbox/completed/Extracted/watchdog.yaml",
+		"/var/folders/68/ycn742q11s5_y7wlvyxgmxg00000gn/T/sublime-sftp-browse-1511645565/resume/var/www/collab/resources/views/welcome.blade.php",
+		"/var/folders/68/ycn742q11s5_y7wlvyxgmxg00000gn/T/sublime-sftp-browse-1511152834/resume/var/www/collab/resources/views/welcome.blade.php",
+		"/var/folders/68/ycn742q11s5_y7wlvyxgmxg00000gn/T/sublime-sftp-browse-1511135216/resume/var/www/collab/app/Http/Middleware/strangerMiddleware.php",
+		"/Users/greggel/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/resume",
+		"/var/folders/68/ycn742q11s5_y7wlvyxgmxg00000gn/T/sublime-sftp-browse-1511070488/resume/var/www/collab/app/Http/Middleware/strangerMiddleware.php",
+		"/var/folders/68/ycn742q11s5_y7wlvyxgmxg00000gn/T/sublime-sftp-browse-1510808567/resume/var/www/collab/app/Http/Middleware/strangerMiddleware.php",
+		"/Users/greggel/sites/musicCart/public/js/checkout.js",
+		"/var/folders/68/ycn742q11s5_y7wlvyxgmxg00000gn/T/sublime-sftp-browse-1510808513/resume/var/www/collab/resources/views/welcome.blade.php",
+		"/var/folders/68/ycn742q11s5_y7wlvyxgmxg00000gn/T/sublime-sftp-browse-1509847654/resume/var/www/collab/resources/views/welcome.blade.php",
+		"/Users/greggel/sites/musicCart/resources/views/shop/checkout.blade.php",
+		"/Users/greggel/sites/musicCart/public/js/images.js",
+		"/Users/greggel/sites/musicCart/public/css/app.css",
+		"/Users/greggel/sites/musicCart/app/Http/Controllers/ImageGalleryController.php",
+		"/Users/greggel/sites/musicCart/resources/views/shop/images.js",
+		"/Users/greggel/sites/musicCart/vendor/stripe/stripe-php/lib/OAuth.php",
+		"/Users/greggel/sites/musicCart/routes/web.php",
+		"/Users/greggel/sites/musicCart/resources/views/partials/header.blade.php",
+		"/Users/greggel/sites/musicCart/app/Cart.php",
+		"/Users/greggel/sites/musicCart/resources/views/layouts/master.blade.php",
+		"/Users/greggel/sites/musicCart/database/migrations/2017_10_20_224042_create_Orders_table.php",
+		"/Users/greggel/sites/musicCart/app/ImageGallery.php",
+		"/Users/greggel/sites/musicCart/database/migrations/2017_10_22_000128_create_image_gallery_table.php",
+		"/Users/greggel/sites/musicCart/resources/views/user/profile.blade.php",
+		"/Users/greggel/sites/musicCart/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/Users/greggel/sites/musicCart/app/Http/Controllers/UserController.php",
+		"/Users/greggel/sites/musicCart/app/Http/Controllers/ProductController.php",
+		"/Users/greggel/sites/musicCart/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/Users/greggel/sites/musicCart/resources/views/user/signin.blade.php",
+		"/Users/greggel/sites/musicCart/app/Order.php",
+		"/Users/greggel/sites/musicCart/resources/views/shop/shopping-cart.blade.php",
+		"/Users/greggel/sites/musicCart/resources/views/partials/image-gallery.blade.php",
+		"/Users/greggel/sites/musicCart/app/User.php",
+		"/var/folders/68/ycn742q11s5_y7wlvyxgmxg00000gn/T/sublime-sftp-browse-1508468902/resume/var/www/collab/resources/views/welcome.blade.php",
+		"/var/folders/68/ycn742q11s5_y7wlvyxgmxg00000gn/T/sublime-sftp-browse-1508467219/resume/var/www/collab/resources/views/welcome.blade.php",
+		"/Users/greggel/sites/musicCart/public/css/my.css",
+		"/Users/greggel/sites/musicCart/database/seeds/ProductTableSeeder.php",
+		"/Users/greggel/sites/musicCart/database/migrations/2017_10_16_000341_create_user_table.php",
+		"/Users/greggel/sites/musicCart/resources/views/shop/index.blade.php",
+		"/Users/greggel/sites/musicCart/resources/views/user/signup.blade.php",
+		"/Users/greggel/sites/musicCart/app/Product.php",
+		"/Users/greggel/sites/musicCart/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/greggel/sites/musicCart/resources/views/user/logout.blade.php",
+		"/Users/greggel/sites/musicCart/database/seeds/DatabaseSeeder.php",
+		"/Users/greggel/sites/musicCart/.env",
+		"/Users/greggel/sites/musicCart/config/database.php",
+		"/Users/greggel/sites/musicCart/database/migrations/2017_10_15_224042_create_products_table.php",
+		"/Users/greggel/sites/musicCart/resources/layouts/master.blade.php",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/share/final/final-part3.py",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/share/lab7/rop.py",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/share/lab7/Dockerfile",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/share/lab7/lab7.py",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/share/lab6/lab6-2a.asm",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/share/lab6/lab6-2b.asm",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/share/lab6/lab6-1.asm",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/share/lab5/lab5-2.py",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/share/lab5/lab5-1.py",
+		"/Volumes/sisky/torrentbox/completed/unzip.sh",
+		"/Users/greggel/Downloads/Syncovery.Pro.Enterprise.v7.26.x64-LAXiTY/lxs6x640/laxity.nfo",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/dockerfile",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/lab4/lab4.r2",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/lab4/decrypt.asm",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/lab3/lab3-2.c",
+		"/Volumes/disky/GDrive/University Of Delaware/Pentesting_ReverseEngineering/lab3/lab3-1.c",
+		"/Volumes/sisky/torrentbox/completed/unzipTest.sh",
+		"/Volumes/sisky/torrentbox/completed/Extracted/unzip.sh",
+		"/Users/greggel/Desktop/raspberry_surveillance_cam_scavix/motion.conf",
+		"/Volumes/resumewebsite/resources/views/welcome.blade.php",
+		"/Volumes/resumewebsite/app/Stranger.php",
+		"/Volumes/resumewebsite/app/Http/Middleware/strangerMiddleware.php",
+		"/Volumes/resumewebsite/app/Http/Controllers/StrangerController.php",
+		"/Volumes/resumewebsite/database/migrations/2017_08_25_025059_add_regionName_to_stranger.php",
+		"/Volumes/resumewebsite/database/migrations/2017_08_25_023238_add_city_to_stranger.php",
+		"/Volumes/resumewebsite/app/Http/Middleware/strangerVisitor.php",
+		"/Users/greggel/Downloads/delugeScripts/completed",
+		"/Users/greggel/sites/collab/sftp-config.json",
+		"/Users/greggel/sites/collab/resources/views/sftp-config.json"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "compliance.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
