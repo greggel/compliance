@@ -5,6 +5,11 @@
   margin: 0;
 }
 
+#title {
+  z-index: 1;
+  background-color: #a4b5a4cf;
+}
+
 .top-right {
   position: absolute;
   right: 10px;
@@ -54,10 +59,12 @@
 /* Sidebar Styles */
 
 .sidebar-nav {
+  height: 100%;
   position: inherit;
-  top: 50px;
   margin: 0;
   padding: 0;
+  z-index: 1;
+  background-color: #111;
   list-style: none;
   color: white;
 }
