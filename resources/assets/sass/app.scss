@@ -7,7 +7,7 @@
 
 
             body {
-                background:#DFD5D5;
+                background: #c1c1c1cf;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
                 
@@ -16,7 +16,14 @@
 
             #title {
                 z-index: 1;
-    			background-color: #a4b5a4cf;
+                color: #cccccc;
+    			background-color: #000000;
+    			font-size: 23px;
+                font-weight: 600;
+                letter-spacing: .1rem;
+                text-transform: uppercase;
+                height: 47px;
+    			padding-top: 16px;
             }
 
             .top-right {
@@ -26,7 +33,7 @@
             }
 
             .links > a {
-                color: #636b6f;
+                color: #cccccc;
                 padding: 0 25px;
                 font-size: 12px;
                 font-weight: 600;
@@ -36,11 +43,26 @@
             }
 
 .wrapper {
-  margin-left:25%;
+  margin: 0 15%;
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
+}
+
+a { 
+color: #548dc4; 
+font-weight: bold; 
+text-decoration: none; 
+}
+			
+a:hover { 
+text-decoration: underline; 
+}
+
+#wrap { 
+width: 650px; 
+margin: auto; 
 }
 
 #wrapper.toggled {
@@ -73,25 +95,24 @@
 /* Sidebar Styles */
 
 .sidebar-nav {
-height:100%;
+  height:100%;
   position: inherit;
+  padding: 0 34px 0px 41px;
   margin: 0;
-  padding: 0;
   z-index: 1;
-  background-color: #111;
+  background-color: #000000;
   list-style: none;
   color: white;
 }
 
 .sidebar-nav li {
-  text-indent: 20px;
   line-height: 40px;
 }
 
 .sidebar-nav li a {
   display: block;
   text-decoration: none;
-  color: #999999;
+  color: #cccccc;
 }
 
 .sidebar-nav li a:hover {

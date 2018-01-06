@@ -22,18 +22,19 @@
                 </div>
             @endif
 
-            <div id="title"><br /> Compliance </div>
+            <div id="title">Compliance</div>
                 <div class="sidebar-wrapper">
                  <ul class="sidebar-nav">
-                    <a href="https://laravel.com/docs">Documentation</a><br />
-                    <a href="https://laracasts.com">Laracasts</a><br />
-                    <a href="https://laravel-news.com">News</a><br />
-                    <a href="https://forge.laravel.com">Forge</a><br />
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <li><a href="#">Profile</a></li>
+                    <li><a href="#">Environment</a></li>
+                    <li><a href="#">Library</a></li>
+                    <li><a href="#">Help</a></li>
                 </ul>
               </div>
               <div class="wrapper">
-                  <div id="page-content-wrapper"></div>
+                  <div id="page-content-wrapper">
+                  <iframe src="editablegrid/examples/simple/index.html" width="1100" height="1100"></iframe>
+              </div>
               </div>
     </body>
 </html>
