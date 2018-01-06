@@ -42,9 +42,13 @@
                 text-transform: uppercase;
             }
 
+.iframe {
+  width: 800px;
+  height: 750px;	
+}
+
 .wrapper {
-  margin: 0 15%;
-  -webkit-transition: all 0.5s ease;
+  margin: 0 0 0 172px;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;

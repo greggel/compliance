@@ -33,7 +33,7 @@
               </div>
               <div class="wrapper">
                   <div id="page-content-wrapper">
-                  <iframe src="editablegrid/examples/simple/index.html" width="1100" height="1100"></iframe>
+                  <iframe src="editablegrid-mysql-example/index.html" class="iframe"></iframe>
               </div>
               </div>
     </body>
