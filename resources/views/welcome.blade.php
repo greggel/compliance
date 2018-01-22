@@ -21,9 +21,8 @@
                     @endauth
                 </div>
             @endif
-
             <div id="title">Compliance</div>
-                <div class="sidebar-wrapper">
+            <div class="sidebar">
                  <ul class="sidebar-nav">
                     <li><a href="#">Profile</a></li>
                     <li><a href="#">Environment</a></li>
@@ -31,10 +30,14 @@
                     <li><a href="#">Help</a></li>
                 </ul>
               </div>
-              <div class="wrapper">
-                  <div id="page-content-wrapper">
-                  <iframe src="editablegrid-mysql-example/index.html" class="iframe"></iframe>
-              </div>
+              <div id="phpgrid">
+                    <?php include_once("phpGrid/conf.php"); 
+
+                    $dg = new C_DataGrid("SELECT * FROM demo");
+                    $dg -> display();
+
+                    ?>
+                  <!--<iframe src="editablegrid-mysql-example/index.html" class="iframe"></iframe> !-->
               </div>
     </body>
 </html>

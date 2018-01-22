@@ -31,6 +31,42 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "resources/assets/sass/app.scss",
+			"settings":
+			{
+				"buffer_size": 2888,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 3290,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 1429,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/editablegrid-mysql-example/loaddata.php",
+			"settings":
+			{
+				"buffer_size": 4112,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -64,10 +100,27 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/greggel/sites/compliance"
+		"/Users/greggel/sites/compliance",
+		"/Users/greggel/sites/compliance/app",
+		"/Users/greggel/sites/compliance/public",
+		"/Users/greggel/sites/compliance/public/css",
+		"/Users/greggel/sites/compliance/public/editablegrid-mysql-example",
+		"/Users/greggel/sites/compliance/public/js",
+		"/Users/greggel/sites/compliance/routes"
 	],
 	"file_history":
 	[
+		"/Users/greggel/sites/compliance/public/editablegrid/examples/simple/grid.xml",
+		"/Users/greggel/sites/compliance/public/editablegrid/examples/minimal/grid.xml",
+		"/Users/greggel/sites/compliance/public/editablegrid/examples/mixed/data.xml",
+		"/Users/greggel/sites/compliance/public/editablegrid-mysql-example/config",
+		"/Users/greggel/sites/compliance/editablegrid-mysql-example/loaddata.php",
+		"/Users/greggel/sites/compliance/public/editablegrid-mysql-example/loaddata.php",
+		"/Users/greggel/sites/compliance/public/css/app.css",
+		"/Users/greggel/sites/compliance/resources/assets/sass/_variables.scss",
+		"/Users/greggel/sites/compliance/resources/views/welcome.blade.php",
+		"/Users/greggel/sites/compliance/.env",
+		"/Users/greggel/sites/compliance/config/app.php",
 		"/Users/greggel/sites/trade/.env",
 		"/Users/greggel/sites/trade/resources/assets/sass/app.scss",
 		"/Users/greggel/sites/trade/resources/views/auth/register.blade.php",
@@ -165,6 +218,7 @@
 		"height": 101.0,
 		"where_history":
 		[
+			"/Users/greggel/sites/compliance"
 		]
 	},
 	"find_state":
@@ -172,6 +226,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"demo",
+			"tablename",
+			"demo",
+			"db_table",
+			"hover",
+			"li",
+			"title",
+			"background",
+			"#fff",
+			"background",
+			"sidebar-nav"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -189,8 +254,143 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "resources/assets/sass/app.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1157,
+								1157
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/layouts/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								349
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "resources/views/welcome.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1355,
+								1355
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/editablegrid-mysql-example/loaddata.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2370,
+								2370
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 38.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -211,11 +411,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.346056392931,
 			1.0
 		],
 		"rows":
@@ -271,7 +478,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -279,7 +486,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 268.0,
+	"side_bar_width": 200.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
