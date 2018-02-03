@@ -14,10 +14,13 @@
   letter-spacing: .1rem;
   text-transform: uppercase;
   padding: 18px 0 35px 25px;
+  width: 100%;
+  position: fixed;
 }
 
 .top-right {
-  position: absolute;
+  z-index: 2;
+  position: fixed;
   right: 10px;
   top: 18px;
 }
@@ -42,11 +45,47 @@
 }
 
 .sidebar {
-  width: 10%;
+  position: fixed;
+  width: 15%;
+  margin-top: 75px;
+  height: 100%;
+  background: black;
 }
 
 .sidebar-nav {
-  width: auto;
+  padding: 0 25px;
+}
+
+.sidebar-nav a {
+  line-height: 60px;
+  color: #cccccc;
+  font-weight: 600;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+#firstnames {
+  display: inline-block;
+  margin-top: 75px;
+  width: 18%;
+}
+
+#emails {
+  display: inline-block;
+  margin-top: 75px;
+  width: 39%;
+}
+
+#names {
+  display: inline-block;
+  margin-left: 16%;
+  margin-top: 75px;
+  width: 14%;
+}
+
+#app {
+  padding-top: 75px;
+  padding-left: 231px;
 }
 
 @media (min-width: 768px) {

@@ -176,6 +176,7 @@ return [
         // compliance\Providers\BroadcastServiceProvider::class,
         compliance\Providers\EventServiceProvider::class,
         compliance\Providers\RouteServiceProvider::class,
+        
 
     ],
 

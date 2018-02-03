@@ -12,9 +12,23 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('welcome')->with('users');
+});
+
+Route::prefix('api')->group(function() {
+    Route::resource('environment', 'EnvironmentController');
+});
+
+Route::get('/profile', function () {
+    return view('welcome')->with('users');
+});
+Route::get('/help', function () {
+    return view('welcome')->with('users');
+});
+Route::get('/library', function () {
+    return view('welcome')->with('users');
 });
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/home', 'HomeController@index');

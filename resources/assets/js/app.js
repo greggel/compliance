@@ -8,14 +8,21 @@
 require('./bootstrap');
 
 window.Vue = require('vue');
-
+import Vue from 'vue';
+import VueRouter from 'vue-router';
+import VueAxios from 'vue-axios';
+import axios from 'axios';
+import App from './App.vue';
+import Example from './components/ExampleComponent.vue';
 /**
  * Next, we will create a fresh Vue application instance and attach it to
  * the page. Then, you may begin adding components to this application
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-Vue.component('example-component', require('./components/ExampleComponent.vue'));
+
+Vue.component('envirolist', require('./components/EnvironmentList.vue'));
+
 
 const app = new Vue({
     el: '#app'
